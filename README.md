@@ -1,4 +1,4 @@
-# BC Student Wellness Management System (2025 PRG3781 Project)
+# BC Student Wellness Management System
 
 ## Project Overview
 
